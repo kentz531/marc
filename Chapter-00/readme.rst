@@ -21,9 +21,9 @@ Mac
 ***
 - using the command line execute the below syntax:
 
-    .. code-block:: shell
+.. code-block:: shell
 
-      brew install python
+    brew install python
 
 
 .. _`python.org`: https://www.python.org/downloads
@@ -32,18 +32,18 @@ Installing Third-Party Libraries aka Modules
 -----------------------------------------------
 Python comes with its own handy package manager called `pip`_ and connects to a central repo called `pypi`_.
 
-    .. code-block:: shell
+.. code-block:: shell
 
-      pip install pandas
+    pip install pandas
 
 .. _`pip`: https://pypi.org/project/pip/
 .. _`pypi`: https://pypi.org
 
 Running Python Programs
 --------------------------
-    .. code-block:: shell
+.. code-block:: shell
 
-      python hello_world.py
+    python hello_world.py
 
 Interactive Development Environments
 ---------------------------------------
