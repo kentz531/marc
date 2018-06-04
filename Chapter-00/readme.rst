@@ -10,16 +10,16 @@ Installing Python
 --------------------
 Windows
 *******
-  - download the installer in `python.org`_ site
-  - run the installer, and choice options that suits you
+- download the installer in `python.org`_ site
+- run the installer, and choice options that suits you
 
 Linux
 *****
-  - Linux comes with pre-installed python
+- Linux comes with pre-installed python
 
 Mac
 ***
-  - using the command line execute the below syntax:
+- using the command line execute the below syntax:
 
     .. code-block:: shell
 
