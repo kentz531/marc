@@ -27,7 +27,7 @@ Chapter - 2: Containers
 
 Chapter - 3: What If?
 *********************
-    - Flow Control
+- Flow Control
 
 Chapter - 4: Reuse Me
 *********************
