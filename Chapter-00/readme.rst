@@ -4,25 +4,26 @@ This Chapter explains how to operate in python
 
 Why Python
 ---------------------------------------
-    <TODO>
+<TODO>
 
 Installing Python
 --------------------
 Windows
 *******
-   - download the installer in `python.org`_ site
-   - run the installer, and choice options that suits you
+  - download the installer in `python.org`_ site
+  - run the installer, and choice options that suits you
+
 Linux
 *****
-   - Linux comes with pre-installed python
+  - Linux comes with pre-installed python
 
 Mac
 ***
-   - using the command line execute the below syntax:
+  - using the command line execute the below syntax:
 
     .. code-block:: shell
 
-         brew install python
+      brew install python
 
 
 .. _`python.org`: https://www.python.org/downloads
@@ -33,7 +34,7 @@ Python comes with its own handy package manager called `pip`_ and connects to a 
 
     .. code-block:: shell
 
-        pip install pandas
+      pip install pandas
 
 .. _`pip`: https://pypi.org/project/pip/
 .. _`pypi`: https://pypi.org
@@ -42,8 +43,8 @@ Running Python Programs
 --------------------------
     .. code-block:: shell
 
-        python hello_world.py
+      python hello_world.py
 
 Interactive Development Environments
 ---------------------------------------
-    <TODO>
+<TODO>
