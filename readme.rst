@@ -1,6 +1,6 @@
 Python Class
 ============
-<Abstract Here>
+This is a Work in Progress, More Contents are coming
 
 Table of Content
 ----------------
