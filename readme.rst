@@ -1,6 +1,6 @@
 Python Class
 ============
-This is a Work in Progress, More Contents are coming
+Greetings, This repo aims to give you a solid understanding to python and hopes to give you encourage you in your programming journey.
 
 Table of Content
 ----------------
@@ -36,11 +36,19 @@ Chapter - 4: Reuse Me
 - Keyword Arguments
 - Scopes
 
-Chapter - 5: Question and Answer
+Chapter - 5: Question And Answer
 ********************************
 - File input/output
 
-Chapter - 6: Blueprint
+Chapter - 6: Buggy Code
+***********************
+- Debugger
+- Exception
+- Assertion
+- Traceback
+- Logging
+
+Chapter - 7: Blueprint
 **********************
 - Object Oriented Programming with Python
 - Inheritance
@@ -48,5 +56,9 @@ Chapter - 6: Blueprint
 - Polymorphism
 - Abstraction
 
+Chapter - 8: Make Your Life Easy
+********************************
+- Git
+- References
 
 .. _`Introduction`: Chapter-00/readme.rst
