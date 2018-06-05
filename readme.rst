@@ -12,7 +12,7 @@ Chapter 0 - `Introduction`_
 - Running Python Programs
 - Interactive Development Environments
 
-Chapter - 1: Hello World
+Chapter - 1: `Hello World`_
 ************************
 - Syntax Structure
 - Operators
@@ -68,3 +68,4 @@ Chapter - 9: A Snake that bites
 <TODO>
 
 .. _`Introduction`: Chapter-00/readme.rst
+.. _`Hello World`: Chapter-01
