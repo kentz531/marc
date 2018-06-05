@@ -61,4 +61,10 @@ Chapter - 8: Make Your Life Easy
 - Git
 - References
 
+Chapter - 9: A Snake that bites
+*******************************
+- Decorators
+- List Comprehension
+<TODO>
+
 .. _`Introduction`: Chapter-00/readme.rst
