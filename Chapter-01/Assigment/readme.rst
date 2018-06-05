@@ -10,8 +10,11 @@
     Tell me what currency you want to use? AED
 
     How much commitment have you raised? 1000000
+
     How much expenditure have you raised first time? 250000
+
     How much expenditure have you raised second time? 300000
+
     How much have you utilized? 900000
 
 
