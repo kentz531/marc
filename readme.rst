@@ -18,16 +18,21 @@ Chapter - 1: `Hello World`_
 - Operators
 - Data Type
 
-Chapter - 2: Containers
+Chapter - 2a: Containers - `List`_
 ***********************
 - Variables
 - Tuple
 - List
+
+Chapter - 2b: Containers
+***********************
+- Variables
 - Dictionary
 
 Chapter - 3: What If?
 *********************
 - Flow Control
+- Boolean Logic
 
 Chapter - 4: Reuse Me
 *********************
@@ -69,3 +74,4 @@ Chapter - 9: A Snake that bites
 
 .. _`Introduction`: Chapter-00/readme.rst
 .. _`Hello World`: Chapter-01
+.. _`List`: Chapter-02a
