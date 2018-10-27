@@ -30,6 +30,3 @@ Exercise 01
         Your Apple cost: 1000 (10%)
         Your Orange cost: 2000 (20%)
         Remaining Budget: 7000 (70%)
-
-- Code
-    .. literalinclude:: exercise01.py
