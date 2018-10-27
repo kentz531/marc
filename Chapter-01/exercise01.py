@@ -5,12 +5,11 @@ print("Budget Calculator . . .")
 
 name = input("What's your Name? ")
 
-budget = int(input("What is your total Budget for a month? " ))
+budget = int(input("What is your total Budget for a month? "))
 apple_count = int(input("How many apple/s you consume in a month? "))
 apple_cost = int(input("How many apple/s you consume in a month? "))
 orange_count = int(input("How many orange/s you consume in a month? "))
 orange_cost = int(input("How many orange/s you consume in a month? "))
-
 
 # ------------------------------------------
 # PROCESS

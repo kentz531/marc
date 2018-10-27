@@ -13,24 +13,20 @@ Chapter 0 - `Introduction`_
 - Interactive Development Environments
 
 Chapter - 1: `Hello World`_
-************************
+***************************
 - Syntax Structure
 - Operators
 - Data Type
 
 Chapter - 2a: Containers - `List`_
-***********************
+**********************************
 - Variables
 - Tuple
 - List
-
-Chapter - 2b: Containers
-***********************
-- Variables
 - Dictionary
 
-Chapter - 3: What If?
-*********************
+Chapter - 3: `What If?`_
+************************
 - Flow Control
 - Boolean Logic
 
@@ -70,8 +66,10 @@ Chapter - 9: A Snake that bites
 *******************************
 - Decorators
 - List Comprehension
+
 <TODO>
 
 .. _`Introduction`: Chapter-00/readme.rst
 .. _`Hello World`: Chapter-01
-.. _`List`: Chapter-02a
+.. _`List`: Chapter-02
+.. _`What If?`: Chapter-03
