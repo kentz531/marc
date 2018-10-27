@@ -18,7 +18,7 @@ Chapter - 1: `Hello World`_
 - Operators
 - Data Type
 
-Chapter - 2a: Containers - `List`_
+Chapter - 2: Containers - `List`_
 **********************************
 - Variables
 - Tuple
