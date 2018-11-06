@@ -30,15 +30,15 @@ Chapter - 3: `What If?`_
 - Flow Control
 - Boolean Logic
 
-Chapter - 4: Reuse Me
-*********************
+Chapter - 4: `Reuse Me`_
+************************
 - Methods/Functions
 - Arguments
 - Keyword Arguments
 - Scopes
 
-Chapter - 5: Question And Answer
-********************************
+Chapter - 5: `Question And Answer`_
+***********************************
 - File input/output
 
 Chapter - 6: Buggy Code
@@ -67,9 +67,9 @@ Chapter - 9: A Snake that bites
 - Decorators
 - List Comprehension
 
-<TODO>
-
 .. _`Introduction`: Chapter-00/readme.rst
 .. _`Hello World`: Chapter-01
 .. _`List`: Chapter-02
 .. _`What If?`: Chapter-03
+.. _`Reuse Me`: Chapter-04
+.. _`Question And Answer`: Chapter-05
